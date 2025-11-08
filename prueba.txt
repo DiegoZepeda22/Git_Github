@@ -8,3 +8,4 @@ Hiram
 cachetes
 Buenos dias
 Buenas noches
+Gato
